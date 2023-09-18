@@ -1,0 +1,7 @@
+C:\Users\MSI\source\repos\Калькулятор С#\Калькулятор С#\bin\Debug\Калькулятор С#.exe.config
+C:\Users\MSI\source\repos\Калькулятор С#\Калькулятор С#\bin\Debug\Калькулятор С#.exe
+C:\Users\MSI\source\repos\Калькулятор С#\Калькулятор С#\bin\Debug\Калькулятор С#.pdb
+C:\Users\MSI\source\repos\Калькулятор С#\Калькулятор С#\obj\Debug\Калькулятор С#.csproj.AssemblyReference.cache
+C:\Users\MSI\source\repos\Калькулятор С#\Калькулятор С#\obj\Debug\Калькулятор С#.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\Калькулятор С#\Калькулятор С#\obj\Debug\Калькулятор С#.exe
+C:\Users\MSI\source\repos\Калькулятор С#\Калькулятор С#\obj\Debug\Калькулятор С#.pdb
